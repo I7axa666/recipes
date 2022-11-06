@@ -24,18 +24,3 @@
 Лаваш | 2 | шт
 Винный уксус | 1 | ст.л
 Помидор | 2 | шт
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-py
